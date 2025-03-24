@@ -6,7 +6,7 @@ main_widgets_color = #101010
 
 [links]
 discord_link = https://discord.com/invite/unlockallwz
-website_link = https://breadware.sellix.io/
+website_link = https://breadware.net/
 guide_link = https://iris-corporation.gitbook.io/general-guide
 
 [rounded_corners]
