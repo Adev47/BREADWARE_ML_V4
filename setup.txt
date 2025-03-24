@@ -5,7 +5,7 @@ main_text_color = #ededed
 main_widgets_color = #101010
 
 [links]
-discord_link = https://discord.gg/unlockallwz
+discord_link = https://discord.com/invite/unlockallwz
 website_link = https://breadware.sellix.io/
 guide_link = https://iris-corporation.gitbook.io/general-guide
 
